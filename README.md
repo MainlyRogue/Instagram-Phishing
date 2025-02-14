@@ -1,5 +1,3 @@
----
-
 # 🔒 Instagram Phishing
 
 This is a basic Instagram login page template with a fake login form designed for educational purposes only. It simulates an Instagram login page and sends the entered credentials to a specified Discord webhook.
